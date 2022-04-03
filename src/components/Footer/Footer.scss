@@ -1,0 +1,62 @@
+.footer {
+display: flex;
+justify-content: space-between;
+padding-bottom: 30px;
+padding-top: 40px;
+    &__contacts {
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+    }
+
+    &__logo {
+        display: flex;
+        margin-bottom: 10px;
+        font-size: 30px;
+        text-decoration: none;
+        color: $secondary-color;
+        align-items: center;
+        justify-content: center;
+        margin-bottom: 30px;
+    }
+
+    &__email {
+font-size: 14px;
+line-height: 20px;
+text-decoration: none;
+color: $secondary-color;
+    }
+
+    &__phone {
+        font-size: 14px;
+        line-height: 20px;
+        text-decoration: none;
+        color: $secondary-color;
+    }
+    &__main {
+        width: 50%;
+    }
+
+    &__address {
+        display: flex;
+        justify-content: space-between;
+        display: flex;
+        font-size: 14px;
+        line-height: 23px;
+        color: $secondary-color;
+    }
+}
+
+.footer-nav {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 44px;
+
+    &__link {
+        text-transform: uppercase;
+        font-size: 14px;
+        line-height: 20px;
+        text-decoration: none;
+        color: $secondary-color;
+    }
+}

@@ -1,0 +1,44 @@
+@import "./reset.scss";
+
+@font-face {
+    font-family: 'Lato';
+    src: url(./fonts/Lato-Regular.ttf);
+}
+
+$primary-color: white;
+$secondary-color: #272727;
+$accent-color: #b87b82;
+
+
+body {
+    background:#fafafa;
+    color: $secondary-color;
+    font-family: 'Lato';
+}
+
+.container {
+max-width: 1200px;
+box-sizing: border-box;
+padding: 0 20px;
+margin: 0 auto;
+width: 100%;
+}
+
+.title {
+    font-family: "Lato 600";
+    text-transform: uppercase;
+    text-align: center;
+    font-size: 21px;
+    line-height: 20px;
+}
+
+@import "~slick-carousel/slick/slick.css";
+@import "~slick-carousel/slick/slick-theme.css";
+@import "./components/Header/Header.scss";
+@import "./components/Footer/Footer.scss";
+@import "./pages/Main/Main.scss";
+@import "./pages/Products/Products.scss";
+@import "./pages/Product/Product.scss";
+@import "./components/ProductCard/ProductCard.scss";
+@import "./components/MainCarousel/MainCarousel.scss";
+

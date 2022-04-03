@@ -1,0 +1,42 @@
+.products {
+display: flex;
+padding-top: 25px;
+}
+
+.products-categories {
+display: flex;
+flex-direction: column;
+width: 15%;
+align-items: flex-start;
+
+&__title {
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 35px;
+    text-decoration: none;
+    color: $secondary-color;
+    text-transform: uppercase;
+}
+
+&__link {
+    font-weight: 600;
+    font-size: 15px;
+    line-height: 35px;
+text-decoration: none;
+    color: $secondary-color;
+    transition: .2s linear color;
+
+    &:hover {
+        color: $accent-color;
+        text-decoration: underline;
+    }
+}
+}
+
+.product-list {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-column-gap: 40px;
+    grid-row-gap: 20px;
+    width: 85%;
+}

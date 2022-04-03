@@ -1,0 +1,70 @@
+.header {
+    font-family: "Lato";
+    text-align: center;
+    background-color: white;
+    padding-top: 20px;
+
+    &__logo {
+        display: flex;
+        margin-bottom: 10px;
+        font-size: 40px;
+        text-decoration: none;
+        color: $secondary-color;
+        align-items: center;
+        justify-content: center;
+    }
+}
+
+.nav {
+    max-width: 1000px;
+    align-items: center;
+    display: flex;
+    justify-content: space-around;
+    margin: 0 auto;
+
+    &__cart {
+        font-size: 20px;
+        color: $secondary-color;
+    }
+
+    &__link {
+        text-transform: uppercase;
+        font-size: 15px;
+        line-height: 20px;
+        text-decoration: none;
+        color: black;
+        padding-top: 15px;
+        padding-bottom: 15px;
+        position: relative;
+
+        &:hover .nav-selected-block {
+            display: flex;
+        }
+    }
+}
+
+.nav-selected-block {
+    position: absolute;
+    width: 200px;
+    flex-direction: column;
+    top: 50px;
+    left: -80%;
+    display: none;
+    background-color: white;
+    z-index: 10000;
+
+    &__link {
+        font-size: 12px;
+        color: #A6A6A9;
+        padding: 5px;
+        text-decoration: none;
+
+        &:last-child {
+            padding-bottom: 10px;
+        }
+
+        &:hover {
+            color: black;
+        }
+    }
+}
