@@ -25,11 +25,12 @@ width: 100%;
 }
 
 .title {
-    font-family: "Lato 600";
+    font-family: "Lato";
     text-transform: uppercase;
     text-align: center;
     font-size: 21px;
     line-height: 20px;
+    margin-bottom: 25px;
 }
 
 @import "~slick-carousel/slick/slick.css";
@@ -41,4 +42,7 @@ width: 100%;
 @import "./pages/Product/Product.scss";
 @import "./components/ProductCard/ProductCard.scss";
 @import "./components/MainCarousel/MainCarousel.scss";
+@import "./components/SizeChartModal/SizeChartModal.scss";
+@import "./components/InformationModal/InformationModal.scss";
+@import "./pages/Favorites/Favorites.scss";
 

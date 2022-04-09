@@ -1,3 +1,5 @@
+import Product from "../pages/Product/Product";
+
 const reducer = (state, action) => {
   console.log({ state, action });
   switch (action.type) {
@@ -13,19 +15,38 @@ const reducer = (state, action) => {
           return item;
         }
       });
-      const cardsWithCart = cardsWithFavs.map((item) => {
-        if (
-          localStorage.getItem(`cart`) &&
-          localStorage.getItem(`cart`).includes(item.vendorCode)
-        ) {
-          item.cart = true;
+      if (
+        typeof JSON.parse(localStorage.getItem("cart")) == "object" &&
+        localStorage.getItem("cart")
+      ) {
+        const cart = JSON.parse(localStorage.getItem("cart")).map((item) => {
+          const product = action.payload.find(
+            (product) => product.vendorCode == Math.trunc(item)
+          );
+          item = {
+            vendorCode: product.vendorCode,
+            price: product.price,
+            URL: product.URL,
+            size: item.split(".")[1],
+          };
           return item;
-        } else {
-          return item;
-        }
-      });
-
-      return { ...state, cards: cardsWithCart };
+        });
+        state = { ...state, cart: cart };
+      } else if (typeof JSON.parse(localStorage.getItem("cart")) == "number") {
+        const product = action.payload.find(
+          (product) =>
+            product.vendorCode == Math.trunc(localStorage.getItem("cart"))
+        );
+        const cart = {
+          vendorCode: product.vendorCode,
+          price: product.price,
+          URL: product.URL,
+          size: localStorage.getItem("cart").split(".")[1],
+        };
+        state = { ...state, cart: cart };
+      }
+      console.log(state.cart);
+      return { ...state, cards: cardsWithFavs };
     }
     case "ADD_TO_FAVORITES": {
       return {
@@ -38,12 +59,20 @@ const reducer = (state, action) => {
       };
     }
     case "ADD_TO_CART": {
-      return {
-        ...state,
-        cards: state.cards.map((card) =>
-          card.vendorCode === action.payload ? { ...card, cart: true } : card
-        ),
-      };
+      if (state.cart === null) {
+        console.log('null')
+        return {
+          ...state,
+          cart: [action.payload],
+        };
+      } else {
+        console.log(state.cart.length);
+        state.cart.push(action.payload);
+return {
+  ...state,
+  cart: state.cart,
+};
+      }
     }
     case "DELETE_FROM_CART": {
       return {

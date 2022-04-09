@@ -14,3 +14,11 @@ export const deleteFromFavoritesAction =
   (vendorCode) => (dispatch, getState) => {
     dispatch({ type: "DELETE_FROM_FAVORITES", payload: vendorCode });
   };
+
+  export const addToCartAction = (vendorCode) => (dispatch, getState) => {
+    dispatch({ type: "ADD_TO_CART", payload: vendorCode });
+  };
+
+  export const deleteFromCartAction = (vendorCode) => (dispatch, getState) => {
+    dispatch({ type: "DELETE_FROM_CART", payload: vendorCode });
+  };

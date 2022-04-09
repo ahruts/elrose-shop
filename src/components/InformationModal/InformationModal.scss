@@ -1,0 +1,23 @@
+.size-required-modal {
+    background-color: $primary-color;
+    color: $secondary-color;
+    top: 50%;
+    transform: translateY(-50%);
+    margin: 0 auto;
+    width: 40%;
+    position: relative;
+    padding: 20px;
+    text-align: center;
+    padding: 50px 30px;
+
+    &__title {
+font-size: 18px;
+    }
+    &__close-btn {
+        font-size: 25px;
+        position: absolute;
+        right: 20px;
+        top: 20px;
+        cursor: pointer;
+    }
+}

@@ -1,6 +1,7 @@
 import React from "react";
 import { NavLink } from "react-router-dom";
 import { FiShoppingCart } from "react-icons/fi";
+import { BsSuitHeartFill, BsSuitHeart } from "react-icons/bs";
 
 function Header() {
 
@@ -34,6 +35,7 @@ function Header() {
                     </NavLink>
                     <NavLink className='nav__link' to="/aboutUs">About us</NavLink>
                     <NavLink className='nav__link' to="/contacts">Contacts</NavLink>
+                    <NavLink className='nav__cart' to="/favorites"><BsSuitHeart /></NavLink>
                 <NavLink className='nav__cart' to="/cart"><FiShoppingCart /></NavLink></nav>
 
             </div>

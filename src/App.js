@@ -7,6 +7,7 @@ import Products from "./pages/Products/Products";
 import AboutUs from "./pages/AboutUs/AboutUs";
 import Product from "./pages/Product/Product";
 import Footer from "./components/Footer/Footer";
+import Favorites from "./pages/Favorites/Favorites";
 
 
 function App() {
@@ -16,6 +17,7 @@ function App() {
       <Routes>
         <Route path="/" element={<Main />}></Route>
         <Route path="/products/:productID" element={<Product />} />
+        <Route path="/favorites" element={<Favorites />} />
         <Route path="/:category" element={<Products />} />
         <Route path="/aboutUs" element={<AboutUs />}></Route>
       </Routes>

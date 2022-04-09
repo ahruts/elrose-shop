@@ -1,0 +1,60 @@
+ .modal {
+     position: fixed;
+     top: 0;
+     right: 0;
+     bottom: 0;
+     left: 0;
+     background: rgba(0, 0, 0, 0.5);
+     z-index: 100050;
+     margin: 0;
+     padding: 0;
+ }
+
+ .size-chart-modal {
+     background-color: $primary-color;
+     color: $secondary-color;
+     top: 50%;
+     transform: translateY(-50%);
+     margin: 0 auto;
+     width: 40%;
+     position: relative;
+     padding: 20px;
+     text-align: center;
+     padding: 50px 30px;
+
+     &__title {
+         text-transform: uppercase;
+         font-size: 20px;
+         font-weight: 600;
+         margin-bottom: 35px;
+     }
+
+     &__table {
+         margin: 0 auto;
+         font-size: 16px;
+     }
+
+     &__head-cell {
+         font-weight: 600;
+         line-height: 20px;
+         width: 140px;
+         padding: 15px 0 15px 0;
+     }
+
+     &__data-cell {
+         line-height: 20px;
+         width: 140px;
+         padding: 15px 0 15px 0;
+     }
+
+     &__row {
+         border-top: 1px solid #E6E7EB;
+     }
+    &__close-btn {
+        font-size: 25px;
+        position: absolute;
+        right: 30px;
+        top: 30px;
+        cursor: pointer;
+    }
+ }

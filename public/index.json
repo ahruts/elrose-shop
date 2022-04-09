@@ -6,21 +6,27 @@
     "URL": "https://res.cloudinary.com/djwbdrfki/image/upload/v1648904750/elrose-shop/products/tops/1005-01_ibdbu9.jpg",
     "vendorCode": "1005",
     "composition": "100% Polyester",
-    "sizes": [32, 34, 36, 38, 40, 42],
-    "awaiableSizes": [32, 36, 38, 40],
-    "cart": false
+    "sizes": [34, 36, 38, 40, 42, 44],
+    "awaiableSizes": [34, 36, 38, 40],
+    "cart": false,
+    "color": "Red",
+    "care": "Delicate wash at water temperature up to 30 ° C; Do not bleach; Iron at an iron temperature of up to 110 ° C; Drum drying is prohibited",
+    "modelParameters": "Model's height: 173 cm, chest 86 cm, waist 60 cm, hips 90 cm. On the model size XS"
   },
   {
-    "name": "Long Sleeve Embroidered Lace Trimmed Blouse",
+    "name": "Long Sleeve EmbroideRed Lace Trimmed Blouse",
     "category": "tops",
     "price": "300",
     "URL": "https://res.cloudinary.com/djwbdrfki/image/upload/v1648904750/elrose-shop/products/tops/1004-01_eo3bvw.jpg",
     "vendorCode": "1004",
     "favorite": false,
     "composition": "100% Polyester",
-    "sizes": [32, 34, 36, 38, 40, 42],
-    "awaiableSizes": [32, 36, 38, 40],
-    "cart": false
+    "sizes": [34, 36, 38, 40, 42, 44],
+    "awaiableSizes": [34, 36, 38, 40],
+    "cart": false,
+    "color": "Red",
+    "care": "Delicate wash at water temperature up to 30 ° C; Do not bleach; Iron at an iron temperature of up to 110 ° C; Drum drying is prohibited",
+    "modelParameters": "Model's height: 173 cm, chest 86 cm, waist 60 cm, hips 90 cm. On the model size XS"
   },
   {
     "name": "Long Sleeve Blouson Button Front Blouse",
@@ -30,9 +36,12 @@
     "vendorCode": "1003",
     "favorite": false,
     "composition": "100% Polyester",
-    "sizes": [32, 34, 36, 38, 40, 42],
-    "awaiableSizes": [32, 36, 38, 40],
-    "cart": false
+    "sizes": [34, 36, 38, 40, 42, 44],
+    "awaiableSizes": [34, 36, 38, 40],
+    "cart": false,
+    "color": "Red",
+    "care": "Delicate wash at water temperature up to 30 ° C; Do not bleach; Iron at an iron temperature of up to 110 ° C; Drum drying is prohibited",
+    "modelParameters": "Model's height: 173 cm, chest 86 cm, waist 60 cm, hips 90 cm. On the model size XS"
   },
   {
     "name": "Long Sleeve Blouson Button Front Blouse",
@@ -42,9 +51,12 @@
     "vendorCode": "1002",
     "favorite": false,
     "composition": "100% Polyester",
-    "sizes": ["32, 34, 36, 38, 40, 42"],
-    "awaiableSizes": ["32, 36, 38, 40"],
-    "cart": false
+    "sizes": [34, 36, 38, 40, 42, 44],
+    "awaiableSizes": [34, 36, 38, 40],
+    "cart": false,
+    "color": "Red",
+    "care": "Delicate wash at water temperature up to 30 ° C; Do not bleach; Iron at an iron temperature of up to 110 ° C; Drum drying is prohibited",
+    "modelParameters": "Model's height: 173 cm, chest 86 cm, waist 60 cm, hips 90 cm. On the model size XS"
   },
   {
     "name": "Square Neck Rib Top",
@@ -54,9 +66,12 @@
     "vendorCode": "1001",
     "favorite": false,
     "composition": "100% Polyester",
-    "sizes": ["32, 34, 36, 38, 40, 42"],
-    "awaiableSizes": ["32, 36, 38, 40"],
-    "cart": false
+    "sizes": [34, 36, 38, 40, 42, 44],
+    "awaiableSizes": [34, 36, 38, 40],
+    "cart": false,
+    "color": "Red",
+    "care": "Delicate wash at water temperature up to 30 ° C; Do not bleach; Iron at an iron temperature of up to 110 ° C; Drum drying is prohibited",
+    "modelParameters": "Model's height: 173 cm, chest 86 cm, waist 60 cm, hips 90 cm. On the model size XS"
   },
   {
     "name": "Rib Midi Skirt",
@@ -66,9 +81,12 @@
     "vendorCode": "2005",
     "favorite": false,
     "composition": "100% Polyester",
-    "sizes": ["32, 34, 36, 38, 40, 42"],
-    "awaiableSizes": ["32, 36, 38, 40"],
-    "cart": false
+    "sizes": ["34, 36, 38, 40, 42, 44"],
+    "awaiableSizes": ["34, 36, 38, 40"],
+    "cart": false,
+    "color": "Red",
+    "care": "Delicate wash at water temperature up to 30 ° C; Do not bleach; Iron at an iron temperature of up to 110 ° C; Drum drying is prohibited",
+    "modelParameters": "Model's height: 173 cm, chest 86 cm, waist 60 cm, hips 90 cm. On the model size XS"
   },
   {
     "name": "Crepe Maxi Ruffle Skirt with Tie",
@@ -78,7 +96,12 @@
     "vendorCode": "2004",
     "favorite": false,
     "composition": "100% Polyester",
-    "cart": false
+    "sizes": [34, 36, 38, 40, 42, 44],
+    "awaiableSizes": [34, 36, 38, 40],
+    "cart": false,
+    "color": "Red",
+    "care": "Delicate wash at water temperature up to 30 ° C; Do not bleach; Iron at an iron temperature of up to 110 ° C; Drum drying is prohibited",
+    "modelParameters": "Model's height: 173 cm, chest 86 cm, waist 60 cm, hips 90 cm. On the model size XS"
   },
   {
     "name": "Crepe Maxi Ruffle Skirt with Tie",
@@ -90,7 +113,12 @@
     "awaiableSizes": "34, 36, 38, 40",
     "favorite": false,
     "composition": "100% Polyester",
-    "cart": false
+    "sizes": [34, 36, 38, 40, 42, 44],
+    "awaiableSizes": [34, 36, 38, 40],
+    "cart": false,
+    "color": "Red",
+    "care": "Delicate wash at water temperature up to 30 ° C; Do not bleach; Iron at an iron temperature of up to 110 ° C; Drum drying is prohibited",
+    "modelParameters": "Model's height: 173 cm, chest 86 cm, waist 60 cm, hips 90 cm. On the model size XS"
   },
   {
     "name": "Daveney Skirt",
@@ -100,7 +128,12 @@
     "vendorCode": "2002",
     "favorite": false,
     "composition": "100% Polyester",
-    "cart": false
+    "sizes": [34, 36, 38, 40, 42, 44],
+    "awaiableSizes": [34, 36, 38, 40],
+    "cart": false,
+    "color": "Red",
+    "care": "Delicate wash at water temperature up to 30 ° C; Do not bleach; Iron at an iron temperature of up to 110 ° C; Drum drying is prohibited",
+    "modelParameters": "Model's height: 173 cm, chest 86 cm, waist 60 cm, hips 90 cm. On the model size XS"
   },
   {
     "name": "Sequined Skirt",
@@ -110,7 +143,12 @@
     "vendorCode": "2001",
     "favorite": false,
     "composition": "100% Polyester",
-    "cart": false
+    "sizes": [34, 36, 38, 40, 42, 44],
+    "awaiableSizes": [34, 36, 38, 40],
+    "cart": false,
+    "color": "Red",
+    "care": "Delicate wash at water temperature up to 30 ° C; Do not bleach; Iron at an iron temperature of up to 110 ° C; Drum drying is prohibited",
+    "modelParameters": "Model's height: 173 cm, chest 86 cm, waist 60 cm, hips 90 cm. On the model size XS"
   },
   {
     "name": "Madonna Slim",
@@ -120,7 +158,12 @@
     "vendorCode": "4001",
     "favorite": false,
     "composition": "100% Polyester",
-    "cart": false
+    "sizes": [34, 36, 38, 40, 42, 44],
+    "awaiableSizes": [34, 36, 38, 40],
+    "cart": false,
+    "color": "Red",
+    "care": "Delicate wash at water temperature up to 30 ° C; Do not bleach; Iron at an iron temperature of up to 110 ° C; Drum drying is prohibited",
+    "modelParameters": "Model's height: 173 cm, chest 86 cm, waist 60 cm, hips 90 cm. On the model size XS"
   },
   {
     "name": "Edna Smocked Pants",
@@ -130,7 +173,12 @@
     "vendorCode": "4002",
     "favorite": false,
     "composition": "100% Polyester",
-    "cart": false
+    "sizes": [34, 36, 38, 40, 42, 44],
+    "awaiableSizes": [34, 36, 38, 40],
+    "cart": false,
+    "color": "Red",
+    "care": "Delicate wash at water temperature up to 30 ° C; Do not bleach; Iron at an iron temperature of up to 110 ° C; Drum drying is prohibited",
+    "modelParameters": "Model's height: 173 cm, chest 86 cm, waist 60 cm, hips 90 cm. On the model size XS"
   },
   {
     "name": "Wide Leg Cropped Pants",
@@ -140,7 +188,12 @@
     "vendorCode": "4003",
     "favorite": false,
     "composition": "100% Polyester",
-    "cart": false
+    "sizes": [34, 36, 38, 40, 42, 44],
+    "awaiableSizes": [34, 36, 38, 40],
+    "cart": false,
+    "color": "Red",
+    "care": "Delicate wash at water temperature up to 30 ° C; Do not bleach; Iron at an iron temperature of up to 110 ° C; Drum drying is prohibited",
+    "modelParameters": "Model's height: 173 cm, chest 86 cm, waist 60 cm, hips 90 cm. On the model size XS"
   },
   {
     "name": "Wide Leg Cropped Pants Red",
@@ -150,7 +203,12 @@
     "vendorCode": "4004",
     "favorite": false,
     "composition": "100% Polyester",
-    "cart": false
+    "sizes": [34, 36, 38, 40, 42, 44],
+    "awaiableSizes": [34, 36, 38, 40],
+    "cart": false,
+    "color": "Red",
+    "care": "Delicate wash at water temperature up to 30 ° C; Do not bleach; Iron at an iron temperature of up to 110 ° C; Drum drying is prohibited",
+    "modelParameters": "Model's height: 173 cm, chest 86 cm, waist 60 cm, hips 90 cm. On the model size XS"
   },
   {
     "name": "Scuba Easy Leg Trousers",
@@ -160,7 +218,12 @@
     "vendorCode": "4005",
     "favorite": false,
     "composition": "100% Polyester",
-    "cart": false
+    "sizes": [34, 36, 38, 40, 42, 44],
+    "awaiableSizes": [34, 36, 38, 40],
+    "cart": false,
+    "color": "Red",
+    "care": "Delicate wash at water temperature up to 30 ° C; Do not bleach; Iron at an iron temperature of up to 110 ° C; Drum drying is prohibited",
+    "modelParameters": "Model's height: 173 cm, chest 86 cm, waist 60 cm, hips 90 cm. On the model size XS"
   },
   {
     "name": "Leggings",
@@ -170,7 +233,12 @@
     "vendorCode": "4006",
     "favorite": false,
     "composition": "100% Polyester",
-    "cart": false
+    "sizes": [34, 36, 38, 40, 42, 44],
+    "awaiableSizes": [34, 36, 38, 40],
+    "cart": false,
+    "color": "Red",
+    "care": "Delicate wash at water temperature up to 30 ° C; Do not bleach; Iron at an iron temperature of up to 110 ° C; Drum drying is prohibited",
+    "modelParameters": "Model's height: 173 cm, chest 86 cm, waist 60 cm, hips 90 cm. On the model size XS"
   },
   {
     "name": "Petite Mini Herringbone Shawl Collar Jacket w/ Combo Piping and Slim Pants",
@@ -180,7 +248,12 @@
     "vendorCode": "5001",
     "favorite": false,
     "composition": "100% Polyester",
-    "cart": false
+    "sizes": [34, 36, 38, 40, 42, 44],
+    "awaiableSizes": [34, 36, 38, 40],
+    "cart": false,
+    "color": "Red",
+    "care": "Delicate wash at water temperature up to 30 ° C; Do not bleach; Iron at an iron temperature of up to 110 ° C; Drum drying is prohibited",
+    "modelParameters": "Model's height: 173 cm, chest 86 cm, waist 60 cm, hips 90 cm. On the model size XS"
   },
   {
     "name": "Petite Crepe Combo Cardigan Jacket and Pants",
@@ -190,7 +263,12 @@
     "vendorCode": "5002",
     "favorite": false,
     "composition": "100% Polyester",
-    "cart": false
+    "sizes": [34, 36, 38, 40, 42, 44],
+    "awaiableSizes": [34, 36, 38, 40],
+    "cart": false,
+    "color": "Red",
+    "care": "Delicate wash at water temperature up to 30 ° C; Do not bleach; Iron at an iron temperature of up to 110 ° C; Drum drying is prohibited",
+    "modelParameters": "Model's height: 173 cm, chest 86 cm, waist 60 cm, hips 90 cm. On the model size XS"
   },
   {
     "name": "Jacket/Pants Suit Set",
@@ -200,7 +278,12 @@
     "vendorCode": "5003",
     "favorite": false,
     "composition": "100% Polyester",
-    "cart": false
+    "sizes": [34, 36, 38, 40, 42, 44],
+    "awaiableSizes": [34, 36, 38, 40],
+    "cart": false,
+    "color": "Red",
+    "care": "Delicate wash at water temperature up to 30 ° C; Do not bleach; Iron at an iron temperature of up to 110 ° C; Drum drying is prohibited",
+    "modelParameters": "Model's height: 173 cm, chest 86 cm, waist 60 cm, hips 90 cm. On the model size XS"
   },
   {
     "name": "Jacket/Pants Suit Set",
@@ -210,7 +293,12 @@
     "vendorCode": "5004",
     "favorite": false,
     "composition": "100% Polyester",
-    "cart": false
+    "sizes": [34, 36, 38, 40, 42, 44],
+    "awaiableSizes": [34, 36, 38, 40],
+    "cart": false,
+    "color": "Red",
+    "care": "Delicate wash at water temperature up to 30 ° C; Do not bleach; Iron at an iron temperature of up to 110 ° C; Drum drying is prohibited",
+    "modelParameters": "Model's height: 173 cm, chest 86 cm, waist 60 cm, hips 90 cm. On the model size XS"
   },
   {
     "name": "Petite Houndstooth One-Button Jacket w/ Combo Framing and Slim Pants",
@@ -220,7 +308,12 @@
     "vendorCode": "5005",
     "favorite": false,
     "composition": "100% Polyester",
-    "cart": false
+    "sizes": [34, 36, 38, 40, 42, 44],
+    "awaiableSizes": [34, 36, 38, 40],
+    "cart": false,
+    "color": "Red",
+    "care": "Delicate wash at water temperature up to 30 ° C; Do not bleach; Iron at an iron temperature of up to 110 ° C; Drum drying is prohibited",
+    "modelParameters": "Model's height: 173 cm, chest 86 cm, waist 60 cm, hips 90 cm. On the model size XS"
   },
   {
     "name": "Sparkle Herringbone One-Button w/ Flap Pockets Jacket and Side Zip Pants",
@@ -230,7 +323,12 @@
     "vendorCode": "5007",
     "favorite": false,
     "composition": "100% Polyester",
-    "cart": false
+    "sizes": [34, 36, 38, 40, 42, 44],
+    "awaiableSizes": [34, 36, 38, 40],
+    "cart": false,
+    "color": "Red",
+    "care": "Delicate wash at water temperature up to 30 ° C; Do not bleach; Iron at an iron temperature of up to 110 ° C; Drum drying is prohibited",
+    "modelParameters": "Model's height: 173 cm, chest 86 cm, waist 60 cm, hips 90 cm. On the model size XS"
   },
   {
     "name": "Tie Front Maxi Shirtdress",
@@ -240,7 +338,12 @@
     "vendorCode": "3001",
     "favorite": false,
     "composition": "100% Polyester",
-    "cart": false
+    "sizes": [34, 36, 38, 40, 42, 44],
+    "awaiableSizes": [34, 36, 38, 40],
+    "cart": false,
+    "color": "Red",
+    "care": "Delicate wash at water temperature up to 30 ° C; Do not bleach; Iron at an iron temperature of up to 110 ° C; Drum drying is prohibited",
+    "modelParameters": "Model's height: 173 cm, chest 86 cm, waist 60 cm, hips 90 cm. On the model size XS"
   },
   {
     "name": "Slim Fit Long Sleeve Turtle Dress To Knee",
@@ -250,7 +353,12 @@
     "vendorCode": "3002",
     "favorite": false,
     "composition": "100% Polyester",
-    "cart": false
+    "sizes": [34, 36, 38, 40, 42, 44],
+    "awaiableSizes": [34, 36, 38, 40],
+    "cart": false,
+    "color": "Red",
+    "care": "Delicate wash at water temperature up to 30 ° C; Do not bleach; Iron at an iron temperature of up to 110 ° C; Drum drying is prohibited",
+    "modelParameters": "Model's height: 173 cm, chest 86 cm, waist 60 cm, hips 90 cm. On the model size XS"
   },
   {
     "name": "Cap Sleeve Wrap with Cascade Ruffle",
@@ -260,7 +368,12 @@
     "vendorCode": "3003",
     "favorite": false,
     "composition": "100% Polyester",
-    "cart": false
+    "sizes": [34, 36, 38, 40, 42, 44],
+    "awaiableSizes": [34, 36, 38, 40],
+    "cart": false,
+    "color": "Red",
+    "care": "Delicate wash at water temperature up to 30 ° C; Do not bleach; Iron at an iron temperature of up to 110 ° C; Drum drying is prohibited",
+    "modelParameters": "Model's height: 173 cm, chest 86 cm, waist 60 cm, hips 90 cm. On the model size XS"
   },
   {
     "name": "Long Sleeve Solid Stretch Oxford Dress",
@@ -270,17 +383,27 @@
     "vendorCode": "3004",
     "favorite": false,
     "composition": "100% Polyester",
-    "cart": false
+    "sizes": [34, 36, 38, 40, 42, 44],
+    "awaiableSizes": [34, 36, 38, 40],
+    "cart": false,
+    "color": "Red",
+    "care": "Delicate wash at water temperature up to 30 ° C; Do not bleach; Iron at an iron temperature of up to 110 ° C; Drum drying is prohibited",
+    "modelParameters": "Model's height: 173 cm, chest 86 cm, waist 60 cm, hips 90 cm. On the model size XS"
   },
   {
-    "name": "Elbow Sleeve Smocked Tiered",
+    "name": "Elbow Sleeve Smocked TieRed",
     "category": "dresses",
     "price": "100",
     "URL": "https://res.cloudinary.com/djwbdrfki/image/upload/v1648903960/elrose-shop/products/dresses/3005-01_q5ddcc.jpg",
     "vendorCode": "3005",
     "favorite": false,
     "composition": "100% Polyester",
-    "cart": false
+    "sizes": [34, 36, 38, 40, 42, 44],
+    "awaiableSizes": [34, 36, 38, 40],
+    "cart": false,
+    "color": "Red",
+    "care": "Delicate wash at water temperature up to 30 ° C; Do not bleach; Iron at an iron temperature of up to 110 ° C; Drum drying is prohibited",
+    "modelParameters": "Model's height: 173 cm, chest 86 cm, waist 60 cm, hips 90 cm. On the model size XS"
   },
   {
     "name": "Ruffle Sleeved Smocked Midi",
@@ -290,17 +413,27 @@
     "vendorCode": "3006",
     "favorite": false,
     "composition": "100% Polyester",
-    "cart": false
+    "sizes": [34, 36, 38, 40, 42, 44],
+    "awaiableSizes": [34, 36, 38, 40],
+    "cart": false,
+    "color": "Red",
+    "care": "Delicate wash at water temperature up to 30 ° C; Do not bleach; Iron at an iron temperature of up to 110 ° C; Drum drying is prohibited",
+    "modelParameters": "Model's height: 173 cm, chest 86 cm, waist 60 cm, hips 90 cm. On the model size XS"
   },
   {
-    "name": "Beanie with Colored Pom",
+    "name": "Beanie with ColoRed Pom",
     "category": "accessories",
     "price": "100",
     "URL": "https://res.cloudinary.com/djwbdrfki/image/upload/v1648903000/elrose-shop/products/accessories/6003-01_hrxz0p.jpg",
     "vendorCode": "6003",
     "favorite": false,
     "composition": "100% Polyester",
-    "cart": false
+    "sizes": [34, 36, 38, 40, 42, 44],
+    "awaiableSizes": [34, 36, 38, 40],
+    "cart": false,
+    "color": "Red",
+    "care": "Delicate wash at water temperature up to 30 ° C; Do not bleach; Iron at an iron temperature of up to 110 ° C; Drum drying is prohibited",
+    "modelParameters": "Model's height: 173 cm, chest 86 cm, waist 60 cm, hips 90 cm. On the model size XS"
   },
   {
     "name": "Beanie with Pom",
@@ -310,7 +443,12 @@
     "vendorCode": "6001",
     "favorite": false,
     "composition": "100% Polyester",
-    "cart": false
+    "sizes": [34, 36, 38, 40, 42, 44],
+    "awaiableSizes": [34, 36, 38, 40],
+    "cart": false,
+    "color": "Red",
+    "care": "Delicate wash at water temperature up to 30 ° C; Do not bleach; Iron at an iron temperature of up to 110 ° C; Drum drying is prohibited",
+    "modelParameters": "Model's height: 173 cm, chest 86 cm, waist 60 cm, hips 90 cm. On the model size XS"
   }
   ,
   {
@@ -321,7 +459,12 @@
     "vendorCode": "6002",
     "favorite": false,
     "composition": "100% Polyester",
-    "cart": false
+    "sizes": [34, 36, 38, 40, 42, 44],
+    "awaiableSizes": [34, 36, 38, 40],
+    "cart": false,
+    "color": "Red",
+    "care": "Delicate wash at water temperature up to 30 ° C; Do not bleach; Iron at an iron temperature of up to 110 ° C; Drum drying is prohibited",
+    "modelParameters": "Model's height: 173 cm, chest 86 cm, waist 60 cm, hips 90 cm. On the model size XS"
   },
   {
     "name": "Alina Earrings Set",
@@ -331,7 +474,12 @@
     "vendorCode": "6005",
     "favorite": false,
     "composition": "100% Polyester",
-    "cart": false
+    "sizes": [34, 36, 38, 40, 42, 44],
+    "awaiableSizes": [34, 36, 38, 40],
+    "cart": false,
+    "color": "Red",
+    "care": "Delicate wash at water temperature up to 30 ° C; Do not bleach; Iron at an iron temperature of up to 110 ° C; Drum drying is prohibited",
+    "modelParameters": "Model's height: 173 cm, chest 86 cm, waist 60 cm, hips 90 cm. On the model size XS"
   },
   {
     "name": "Compass Earrings Set",
@@ -341,6 +489,11 @@
     "vendorCode": "6004",
     "favorite": false,
     "composition": "100% Polyester",
-    "cart": false
+    "sizes": [34, 36, 38, 40, 42, 44],
+    "awaiableSizes": [34, 36, 38, 40],
+    "cart": false,
+    "color": "Red",
+    "care": "Delicate wash at water temperature up to 30 ° C; Do not bleach; Iron at an iron temperature of up to 110 ° C; Drum drying is prohibited",
+    "modelParameters": "Model's height: 173 cm, chest 86 cm, waist 60 cm, hips 90 cm. On the model size XS"
   }
 ]}

@@ -1,11 +1,4 @@
 import React from "react";
-import slider from './img/slider.png'
-import accessories from './img/accessories.png'
-import costumes from './img/costumes.png'
-import dresses from './img/dresses.png'
-import pants from './img/pants.png'
-import skirts from './img/skirts.png'
-import tops from './img/tops.png'
 import { NavLink } from "react-router-dom";
 import MainCarousel from "../../components/MainCarousel/MainCarousel";
 
