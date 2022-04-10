@@ -1,6 +1,5 @@
 {
   "name": "elrose-shop",
-  "homepage" :"elrose-shop",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
