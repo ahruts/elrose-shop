@@ -1,5 +1,9 @@
-  build:
-  image: node:14.15.3-buster-slim
+stages:
+  - build
+  - deploy
+
+build:
+  image: node
   stage: build
   script:
     - yarn install
@@ -7,3 +11,17 @@
   artifacts:
     paths:
       - build/
+
+pages:
+  image: alpine:latest
+  stage: deploy
+  variables:
+    GIT_STRATEGY: none
+    NODE_ENV: production
+    PUBLIC_URL: https://ahruts.gitlab.io/elrose-shop/
+  script:
+    - mv build public
+    - cp public/index.html public/404.html
+  artifacts:
+    paths:
+      - public
