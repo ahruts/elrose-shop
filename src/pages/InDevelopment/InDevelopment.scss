@@ -1,0 +1,26 @@
+.in-development {
+    height: 300px;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
+    &__text {
+        margin-bottom: 15px;
+    }
+
+    &__btn {
+        cursor: pointer;
+        display: inline-block;
+        text-decoration: none;
+        background: #242424;
+        border-radius: 3px;
+        color: $primary-color;
+        text-transform: uppercase;
+        font-size: 15px;
+        line-height: 18px;
+        padding: 15px 40px 15px 40px;
+        border: none;
+    }
+}
