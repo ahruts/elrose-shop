@@ -1,11 +1,9 @@
-pages:
-  stage: deploy
+  build:
+  image: node:14.15.3-buster-slim
+  stage: build
   script:
-  - mkdir .public
-  - cp -r * .public
-  - mv .public public
+    - yarn install
+    - yarn build
   artifacts:
     paths:
-    - public
-  only:
-  - master
+      - build/
