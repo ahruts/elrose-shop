@@ -6,8 +6,7 @@ build:
   image: node
   stage: build
   script:
-    - yarn install
-    - yarn build
+    - npm run build
   artifacts:
     paths:
       - build/
