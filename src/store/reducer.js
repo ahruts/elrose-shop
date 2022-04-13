@@ -1,5 +1,3 @@
-import Product from "../pages/Product/Product";
-
 const reducer = (state, action) => {
   console.log({ state, action });
   switch (action.type) {
@@ -21,7 +19,7 @@ const reducer = (state, action) => {
       ) {
         const cart = JSON.parse(localStorage.getItem("cart")).map((item) => {
           const product = action.payload.find(
-            (product) => product.vendorCode == Math.trunc(item)
+            (product) => product.vendorCode === Math.trunc(item)
           );
           item = {
             vendorCode: product.vendorCode,
@@ -35,7 +33,7 @@ const reducer = (state, action) => {
       } else if (typeof JSON.parse(localStorage.getItem("cart")) == "number") {
         const product = action.payload.find(
           (product) =>
-            product.vendorCode == Math.trunc(localStorage.getItem("cart"))
+            product.vendorCode === Math.trunc(localStorage.getItem("cart"))
         );
         const cart = {
           vendorCode: product.vendorCode,
