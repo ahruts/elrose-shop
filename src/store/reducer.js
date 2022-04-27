@@ -2,6 +2,7 @@ const reducer = (state, action) => {
   console.log({ state, action });
   switch (action.type) {
     case "SET_PRODUCTS": {
+
       const cardsWithFavs = action.payload.map((item) => {
         if (
           localStorage.getItem(`favorites`) &&
@@ -19,7 +20,7 @@ const reducer = (state, action) => {
       ) {
         const cart = JSON.parse(localStorage.getItem("cart")).map((item) => {
           const product = action.payload.find(
-            (product) => product.vendorCode === Math.trunc(item)
+            (product) => product.vendorCode == Math.trunc(item)
           );
           item = {
             vendorCode: product.vendorCode,

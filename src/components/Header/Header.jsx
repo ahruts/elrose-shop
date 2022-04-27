@@ -8,8 +8,8 @@ function Header() {
     return (
         <div className="header">
             <div className="container">
-                <a className="header__logo" href="/"><img width='50px'src="https://res.cloudinary.com/djwbdrfki/image/upload/v1648914595/elrose-shop/header/header-logo_yh8hfl.png" alt="" />
-                ELROSE</a>
+                <NavLink className="header__logo" to="/"><img width='50px'src="https://res.cloudinary.com/djwbdrfki/image/upload/v1648914595/elrose-shop/header/header-logo_yh8hfl.png" alt="" />
+                ELROSE</NavLink>
                 <nav className="nav">
                     <NavLink className='nav__link' to="/stock">Stock</NavLink>
                     <NavLink className='nav__link'to="/products">
