@@ -106,11 +106,9 @@
   {
     "name": "Crepe Maxi Ruffle Skirt with Tie",
     "category": "skirts",
-    "category": "top",
     "price": "200",
     "URL": "https://res.cloudinary.com/djwbdrfki/image/upload/v1648902910/elrose-shop/products/skirts/2003-01_bjywvi.jpg",
     "vendorCode": "2003",
-    "awaiableSizes": "34, 36, 38, 40",
     "favorite": false,
     "composition": "100% Polyester",
     "sizes": [34, 36, 38, 40, 42, 44],
